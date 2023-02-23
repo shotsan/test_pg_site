@@ -1,5 +1,5 @@
 baseURL      = "https://www.example.com/"
-title        = "Gallery Deluxe"
+title        = "World Cup Soccer Matchballs!"
 disableKinds = ["section", "taxonomy", "term"]
 
 [params]
@@ -11,7 +11,7 @@ disableKinds = ["section", "taxonomy", "term"]
         shuffle = false
 
         # Reverse the order of the images in the gallery.
-        reverse = true
+        reverse = false
 
         # Enable Exif data in the gallery.
         # See https://gohugo.io/content-management/image-processing/#exif-data for how to filter tags.
