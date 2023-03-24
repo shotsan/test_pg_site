@@ -1,7 +1,7 @@
-baseURL      = "https://www.example.com/"
+baseURL      = "world-cup-matchball.netlify.app"
 title        = "World Cup Soccer Matchballs!"
 disableKinds = ["section", "taxonomy", "term"]
-
+googleAnalytics = "G-MBNGXLYM5C"
 [params]
     # Set to enable Plausible Analytics.
     plausible_domain = ""
